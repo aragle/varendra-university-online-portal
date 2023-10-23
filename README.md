@@ -1,5 +1,4 @@
 # vu-online-portal
-![varendra_university_signature](https://user-images.githubusercontent.com/62181222/187081216-321f0184-b4dc-4ab8-aaf6-534f16dcbc3f.png)
 
 This is a portal for a community who works for security and data protection.
 
