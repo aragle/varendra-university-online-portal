@@ -1,0 +1,1 @@
+Watch [Static Varendra University Online Portal](https://aratheunseen.github.io/varendra-university-online-portal) here or checkout [main branch](https://github.com/aratheunseen/varendra-university-online-portal) for functional portal.
